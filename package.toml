@@ -1,0 +1,8 @@
+[package_detail]
+name = "OpenOCD"
+description = "The Open On-Chip Debugger (OpenOCD) aims to provide debugging, in-system programming and boundary-scan testing for embedded target devices"
+version = "0.11.0-4"
+source_url = "https://github.com/xpack-dev-tools/openocd-xpack"
+license = "MIT"
+install_script = "setup.sh"
+install_script_type = "shell"
